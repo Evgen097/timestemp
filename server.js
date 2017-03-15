@@ -15,6 +15,9 @@ app.listen(8080, function () {
 
 /*
 
+Check your git status by entering the command 'git status' into the console.
+Add your files with the command git "add ..."
+Commit your changes with "git commit -m "initial commit".
 
 Open up your application in a preview tab by clicking Window > Share > Application > Open
 

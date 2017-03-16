@@ -81,11 +81,11 @@ function timeConvString(arr){
 /*
 
 Check your git status by entering the command 'git status' into the console.
-Add your files with the command git 'add .'
+Add your files with the command 'git add .'
 Commit your changes with 'git commit -m "initial commit".
 Create a new GitHub repository. Then copy its .git URL.
-Return to c9.io's terminal and set your GitHub remote URL: git remote add origin followed by the URL you copied from GitHub.
-Run git push origin master
+Return to c9.io's terminal and set your GitHub remote URL: 'git remote add origin https://github.com/Evgen097/timestemp.git' followed by the URL you copied from GitHub.
+Run 'git push origin master'
 
 Open up your application in a preview tab by clicking Window > Share > Application > Open
 

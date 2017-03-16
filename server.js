@@ -70,7 +70,7 @@ function timeConvString(arr){
 
   }
 
-  http.createServer(onRequest).listen(8080);
+  http.createServer(onRequest).listen(process.env.PORT || 8080);
   console.log("Server has started.");
 
 

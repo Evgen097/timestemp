@@ -1,6 +1,10 @@
 {
   "name": "timestemp",
   "version": "1.0.0",
+  "engines": {
+    "node": "v4.7.3",
+    "npm": "2.15.11"
+  },
   "description": "",
   "main": "index.js",
   "scripts": {
